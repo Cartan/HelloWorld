@@ -1,2 +1,3 @@
 ﻿More text.
 Blabla.
+Git is garbage.
